@@ -13,7 +13,7 @@ Họ và tên: Lê Duy Trường <br>
 MSSV: 20522083 <br>
 Lớp: KHMT2020 <br>
 
-** Hướng dẫn sử dụng thư viện chat-downloader để tải comment trên you tube về**
+**Hướng dẫn sử dụng thư viện chat-downloader để tải comment trên you tube về**
 <br>Tìm hiểu thêm về thư viện tại đây: https://github.com/xenova/chat-downloader<br>
 <br>Cài đặt thư viện bằng cách<br>
 ```
@@ -32,6 +32,6 @@ Lớp: KHMT2020 <br>
 ```
   python data_labeling_chatgpt.py
 ```
-
+**Sử dụng file Toxic_comment_on_Esports_livestream.ipynb để training model**
 <br>Chạy trên file notebook Toxic_comment_on_Esports_livestream.ipynb trên Google Colab và chờ đợi kết quả<br>
 <br>![image](https://github.com/TruongNoDame/Comments-Esport-Livestream-Gam-R7/blob/main/images/4.png)<br>
