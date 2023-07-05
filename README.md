@@ -18,7 +18,7 @@ Lớp: KHMT2020 <br>
 `$ pip install chat-downloader`
 <br>Chạy file chat_live_on_youtube.py<br>
 <br>Thay đổi link và thời gian để có thể thu thập data vào những thời điểm cao trào (tham khảo chat-downloader github của xenova phía trên)<br>
-<br>![image](https://github.com/TruongNoDame/Comments-Esport-Livestream-Gam-R7/images/1.png)<br>
+<br>![image](https://github.com/TruongNoDame/Comments-Esport-Livestream-Gam-R7/blob/main/images/1.png)<br>
 <br>Thu được file dataset dạng .xlsx<br>
 <br>![image](https://user-images.githubusercontent.com/79317931/178136443-af37a147-d72a-40d5-9a83-f6085de50045.png)<br>
 <br>Lấy data vừa thu thập gán nhãn<br>
