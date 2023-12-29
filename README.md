@@ -1,6 +1,6 @@
-**NHÓM ThreeSome LỚP CS114.N21**
+# NHÓM ThreeSome LỚP CS114.N21
 
-Thành viên nhóm <br> 
+## Thành viên nhóm <br> 
 Họ và tên: Hàn Phi Trường (Nhóm trưởng) <br>
 MSSV: 20522081 <br>
 Lớp: KHMT2020 <br>
@@ -13,7 +13,13 @@ Họ và tên: Lê Duy Trường <br>
 MSSV: 20522083 <br>
 Lớp: KHMT2020 <br>
 
-**Hướng dẫn sử dụng thư viện chat-downloader để tải comment trên you tube về**
+# Cài đặt các thư viện cần thiết
+
+```
+pip install -r requirements.txt
+```
+
+# Hướng dẫn sử dụng thư viện chat-downloader để tải comment trên you tube về
 <br>Tìm hiểu thêm về thư viện tại đây: https://github.com/xenova/chat-downloader<br>
 <br>Cài đặt thư viện bằng cách<br>
 ```
@@ -27,13 +33,13 @@ Lớp: KHMT2020 <br>
 <br>Lấy data vừa thu thập gán nhãn<br>
 <br>![image](https://github.com/TruongNoDame/Comments-Esport-Livestream-Gam-R7/blob/main/images/3.png)<br>
 
-**Hướng dẫn sử dụng api của chatGPT để gán nhãn**
+# Hướng dẫn sử dụng api của chatGPT để gán nhãn
 - Tạo api-key từ [Openai](https://platform.openai.com/api-keys)
 - Tạo file `.env` và thêm `OPENAI_API_KEY=<your-api-key>`
 - Chạy file `data_labeling_chatgpt.py`
 ```
   python data_labeling_chatgpt.py
 ```
-**Sử dụng file Toxic_comment_on_Esports_livestream.ipynb để training model**
+# Sử dụng file Toxic_comment_on_Esports_livestream.ipynb để training model
 <br>Chạy trên file notebook Toxic_comment_on_Esports_livestream.ipynb trên Google Colab và chờ đợi kết quả<br>
 <br>![image](https://github.com/TruongNoDame/Comments-Esport-Livestream-Gam-R7/blob/main/images/4.png)<br>

@@ -1,0 +1,6 @@
+chat-downloader
+openpyxl 
+xlrd
+pandas 
+dotenv 
+openai
