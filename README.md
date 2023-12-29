@@ -28,7 +28,9 @@ Lớp: KHMT2020 <br>
 <br>![image](https://github.com/TruongNoDame/Comments-Esport-Livestream-Gam-R7/blob/main/images/3.png)<br>
 
 **Hướng dẫn sử dụng api của chatGPT để gán nhãn**
-<br>Ta sẽ chạy file `data_labeling_chatgpt.py`
+- Tạo api-key từ [Openai](https://platform.openai.com/api-keys)
+- Tạo file `.env` và thêm `OPENAI_API_KEY=<your-api-key>`
+- Chạy file `data_labeling_chatgpt.py`
 ```
   python data_labeling_chatgpt.py
 ```
